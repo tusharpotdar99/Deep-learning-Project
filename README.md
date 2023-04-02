@@ -17,6 +17,7 @@ A Trained Model for Classifying EMNIST Dataset and Hand writing digits, Characte
 
 DATASET LINK :
 can't upload dataset on git.hub cause, large size
+
 Train-Dataset:https://www.kaggle.com/datasets/crawford/emnist?select=emnist-balanced-train.csv
 
 Test-Dataset :https://www.kaggle.com/datasets/crawford/emnist?select=emnist-balanced-test.csv
